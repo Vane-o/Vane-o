@@ -1,4 +1,4 @@
-Hi 👋 My name is Vane
+Hi 👋 This is Vane
 ============================
 
 Cybersecurity | Web dev and design
