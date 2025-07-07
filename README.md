@@ -13,6 +13,10 @@ Studied communication arts in college that's why she's interested in arts and cr
 *   🔭 I’m working on my website
 
 *   CompTIA Security+ ce Certification
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba6b1a94-8f93-4117-83a5-9c9dac1627f3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 https://www.credly.com/badges/ba6b1a94-8f93-4117-83a5-9c9dac1627f3/public_url
 
