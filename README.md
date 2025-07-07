@@ -10,7 +10,7 @@ Studied communication arts in college that's why she's interested in arts and cr
 
 *   🌍  I'm based in Western Australia
 *   ✉️  You can contact me at [vanes.orense@gmail.com](mailto:vanes.orense@gmail.com)
-<p align="left">🔭 I’m working on my website</p>
+*   🔭 I’m working on my website
 
 Skills 
 <p align="left">
